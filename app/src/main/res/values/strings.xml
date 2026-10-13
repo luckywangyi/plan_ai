@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudySync</string>
+    <string name="app_subtitle">自适应备考规划与智能辅导引擎</string>
+    <string name="nav_mission">每日任务</string>
+    <string name="nav_curriculum">大纲总览</string>
+    <string name="nav_peer_sync">学友同步</string>
+    <string name="nav_a4_matrix">A4打卡表</string>
+    <string name="nav_contract">契约数据</string>
+</resources>
+

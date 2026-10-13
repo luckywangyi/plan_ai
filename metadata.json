@@ -1,0 +1,6 @@
+{
+  "name": "StudySync",
+  "description": "面向研究生入学考试的严谨学术规划引擎与自适应学习导师，支持画像A与画像B严格数据隔离与双向学友对比分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
